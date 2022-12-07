@@ -1,0 +1,93 @@
+/* CSS */
+body{
+  background-color: #EEE2DC;
+}
+
+.sidebar {
+height: 100%;
+width: 150px;
+position:fixed;
+left: 0;
+top: 0;
+padding-top: 40px;
+background-color: #123C69;
+font family: Georgia;
+color: #EEE2DC;
+}
+
+.sidebar div {
+padding: 8px;
+font-size: 24px;
+display: block;
+}
+
+.body-text {
+margin-left: 150px;
+font-size: 18px;
+font family: Georgia;
+background-color: #EEE2DC;
+}
+
+img {
+  width: 200px;
+  height: 150px;
+}
+
+img:hover {
+  opacity: .7;
+}
+
+
+
+h2{
+  font-size: 3rem;
+  color: #AC3B61;
+  font-weight: 100;
+}
+
+h3{
+  font-family:Georgia;
+  color: #123C69;
+  font-size: 2rem;
+  font-weight: 100;
+}
+
+h1{
+font-family:Georgia;
+color: #123C69;
+font-size: 4rem;
+font-weight: 100;
+font-style: bold;
+font-style: underline;
+}
+
+h4{
+  font-family:Georgia;
+  color: #EEE2DC;
+  font-size: 2rem;
+  font-weight: 100;
+}
+
+p,ul,li{
+  font-family:Georgia;
+  color: #123C69;
+  font-size: 1rem;
+}
+
+a.one{
+  font-family:Georgia;
+  color: #BAB2B5;
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+
+a.two{
+  font-family:Georgia;
+  color: #123C69;
+  font-size: 1rem;
+}
+
+.footer {
+  margin-left: 150px;
+  font-size: 5rem;
+  text-align: center;}
